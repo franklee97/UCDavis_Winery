@@ -1,0 +1,5 @@
+- Added silkscreen labels for all the pins as well as revision number and name
+
+- Changed the route width to 0.024 inch
+
+- Changed trace path to avoid holes
